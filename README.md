@@ -13,7 +13,7 @@ This web app was created as part of an assignment and serves as an example of ap
 ## Try It Out  
 [Click here to use the UFV GPA Calculator](#)  
 
-> Replace the `#` above with your live app's URL.  
+
 
 ## How It Works  
 1. Enter the course grades and their corresponding credit hours.  
